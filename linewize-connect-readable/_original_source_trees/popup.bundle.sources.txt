@@ -1,0 +1,49 @@
+# first-party sources
+src/common/constants.ts
+src/popup/App.tsx
+src/popup/assets/css/login.css
+src/popup/assets/css/login.css
+src/popup/assets/css/main.css
+src/popup/assets/css/main.css
+src/popup/assets/css/policy.css
+src/popup/assets/css/policy.css
+src/popup/assets/css/settings.css
+src/popup/assets/css/settings.css
+src/popup/assets/fonts/Lato-Regular.ttf
+src/popup/assets/imgs/lw_icon.png
+src/popup/assets/imgs/monitor_eye.svg
+src/popup/assets/imgs/refresh.png
+src/popup/components/Login.tsx
+src/popup/components/Policy.tsx
+src/popup/components/Settings.tsx
+src/popup/index.tsx
+
+# libraries / webpack runtime
+_node_modules/@fortawesome/fontawesome-svg-core/index.es.js
+_node_modules/@fortawesome/free-solid-svg-icons/index.es.js
+_node_modules/@fortawesome/react-fontawesome/index.es.js
+_node_modules/css-loader/dist/runtime/api.js
+_node_modules/css-loader/dist/runtime/getUrl.js
+_node_modules/object-assign/index.js
+_node_modules/prop-types/factoryWithThrowingShims.js
+_node_modules/prop-types/index.js
+_node_modules/prop-types/lib/ReactPropTypesSecret.js
+_node_modules/react-dom/cjs/react-dom.production.min.js
+_node_modules/react-dom/index.js
+_node_modules/react/cjs/react.production.min.js
+_node_modules/react/index.js
+_node_modules/scheduler/cjs/scheduler.production.min.js
+_node_modules/scheduler/index.js
+_node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
+_node_modules/style-loader/dist/runtime/insertBySelector.js
+_node_modules/style-loader/dist/runtime/insertStyleElement.js
+_node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js
+_node_modules/style-loader/dist/runtime/styleDomAPI.js
+_node_modules/style-loader/dist/runtime/styleTagTransform.js
+_webpack/bootstrap
+_webpack/runtime/compat get default export
+_webpack/runtime/define property getters
+_webpack/runtime/global
+_webpack/runtime/hasOwnProperty shorthand
+_webpack/runtime/nonce
+_webpack/runtime/publicPath

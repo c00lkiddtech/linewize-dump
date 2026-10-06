@@ -1,0 +1,7 @@
+# first-party sources
+src/background/assets/scripts/addFadeFunctions.ts
+src/content_scripts/notifications/index.ts
+src/content_scripts/notifications/types.ts
+
+# libraries / webpack runtime
+

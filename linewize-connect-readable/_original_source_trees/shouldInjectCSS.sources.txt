@@ -1,0 +1,5 @@
+# first-party sources
+src/background/assets/scripts/shouldInjectCSS.ts
+
+# libraries / webpack runtime
+

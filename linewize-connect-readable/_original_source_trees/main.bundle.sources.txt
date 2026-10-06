@@ -1,0 +1,5 @@
+# first-party sources
+src/activity_debug/main.ts
+
+# libraries / webpack runtime
+

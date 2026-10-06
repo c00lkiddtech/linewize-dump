@@ -1,0 +1,6 @@
+# first-party sources
+src/chat/assets/scripts/chatBubble.ts
+src/common/constants.ts
+
+# libraries / webpack runtime
+

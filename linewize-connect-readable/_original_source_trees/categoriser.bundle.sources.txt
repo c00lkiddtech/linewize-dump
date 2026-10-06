@@ -1,0 +1,6 @@
+# first-party sources
+src/content_scripts/categoriser/index.ts
+src/content_scripts/categoriser/types.ts
+
+# libraries / webpack runtime
+
