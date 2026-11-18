@@ -1,0 +1,12 @@
+/**
+ * @license Angular v<unknown>
+ * (c) 2010-2024 Google LLC. https://angular.io/
+ * License: MIT
+ */
+
+/*@license Copyright 2015-2022 Ably Real-time Ltd (ably.com)
+
+Ably JavaScript Library v2.17.0
+https://github.com/ably/ably-js
+
+Released under the Apache Licence v2.0*/
